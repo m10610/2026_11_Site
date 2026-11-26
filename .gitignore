@@ -1,0 +1,9 @@
+#blacklist all
+*
+
+#whitelist
+!index.html
+!.gitignore
+!README.md
+!images/
+!images/**
