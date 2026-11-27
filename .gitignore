@@ -3,6 +3,7 @@
 
 #whitelist
 !index.html
+!devlog.html
 !.gitignore
 !README.md
 !images/
